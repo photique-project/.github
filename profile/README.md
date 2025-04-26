@@ -13,8 +13,8 @@
 > [!NOTE]
 > 서비스 서버 유지 비용에 대한 이유로, 별도 예고 없이 서버가 중단될 수 있습니다.
 
-[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge)](https://your-frontend-repo-link.com)<br>
-[![Backend Repository](https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge)](https://your-backend-repo-link.com)
+[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge)](https://github.com/photique-project/backend)<br>
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge)](https://github.com/photique-project/frontend)
 
 <br><br>
 
