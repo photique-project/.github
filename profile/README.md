@@ -1,5 +1,4 @@
-## 아직 프로덕트 배포안함
-# 🌃 Photique - [[product link]](https://your-product-link.com)
+# 🌃 Photique - [[product link]](https://www.photique.size)
 ![logo](https://github.com/user-attachments/assets/474f138b-f189-4479-9717-0debddcf71fc)
 
 <br><br>
@@ -27,3 +26,6 @@
 
 
 ### 전시회
+
+
+### 팔로우 & 알림
