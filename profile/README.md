@@ -1,4 +1,4 @@
-# 🌃 Photique - [[product link]](https://www.photique.size)
+# 🌃 Photique - [[product link]](https://www.photique.site)
 ![logo](https://github.com/user-attachments/assets/474f138b-f189-4479-9717-0debddcf71fc)
 
 <br><br>
