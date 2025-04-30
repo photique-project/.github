@@ -23,9 +23,9 @@
 ### 유저
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="../assets/join.gif" width="200"/> | 회원가입 |
-| <img src="../assets/login.gif" width="200"/> | 로그인 |
-| <img src="../assets/details.gif" width="200"/> | 유저 정보 조회 & 수정 |
+| <img src="https://github.com/user-attachments/assets/cb6469cc-128b-404c-b80e-4cf61bc8864f" alt="join" width="400"/> | 회원가입 |
+| <img src="https://github.com/user-attachments/assets/90dad12a-e194-4524-9514-a5a6d43ab821" alt="login" width="400"/> | 로그인 |
+| <img src="https://github.com/user-attachments/assets/cb5ee0f1-1662-4221-b066-4678edfd5c13" alt="details" width="400"/> | 유저 정보 조회 & 수정 |
 
 
 
