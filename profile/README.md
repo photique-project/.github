@@ -1,5 +1,8 @@
-# 🌃 Photique - [[product link]](https://www.photique.site)
-![logo](https://github.com/user-attachments/assets/474f138b-f189-4479-9717-0debddcf71fc)
+# 🌃 Photique
+
+<a href="https://www.photique.site" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b9e1f3d6-2481-4210-8bc6-8ebe59a6888d" alt="서비스 바로가기" width="400"/>
+</a>
 
 <br><br>
 
