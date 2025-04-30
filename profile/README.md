@@ -23,9 +23,9 @@
 ### 유저
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="https://github.com/user-attachments/assets/cb6469cc-128b-404c-b80e-4cf61bc8864f" alt="join" width="400"/> | 회원가입 |
-| <img src="https://github.com/user-attachments/assets/90dad12a-e194-4524-9514-a5a6d43ab821" alt="login" width="400"/> | 로그인 |
-| <img src="https://github.com/user-attachments/assets/cb5ee0f1-1662-4221-b066-4678edfd5c13" alt="details" width="400"/> | 유저 정보 조회 & 수정 |
+| <img src="https://github.com/user-attachments/assets/cb6469cc-128b-404c-b80e-4cf61bc8864f" alt="join" width="400"/> | 이메일 인증을 통하여 회원가입을 할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/90dad12a-e194-4524-9514-a5a6d43ab821" alt="login" width="400"/> | 회원가입한 정보로 로그인 합니다. |
+| <img src="https://github.com/user-attachments/assets/cb5ee0f1-1662-4221-b066-4678edfd5c13" alt="details" width="400"/> | 마이 페이지에서 유저 관련 정보를 조회 및 수정할 수 있습니다. |
 
 <br>
 
@@ -33,10 +33,10 @@
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="https://github.com/user-attachments/assets/2c312c54-6c26-4d14-aea5-93b4098f9d23" alt="single work" width="400"/> | 단일작품 게시 |
-| <img src="https://github.com/user-attachments/assets/d895abaa-43ee-46c1-8bbe-5efca394dabd" alt="single work details" width="400"/> | 단일작품 상세조회 & 좋아요 & 댓글 작성 |
-| <img src="https://github.com/user-attachments/assets/0f3b443e-d0c3-478c-b3cc-143b6046100e" alt="single work edit & delete" width="400"/> | 단일작품 수정 & 삭제 |
-| <img src="https://github.com/user-attachments/assets/4f6a035d-f6c4-4a67-9595-823fa1d83a0e" alt="search single work" width="400"/> | 단일작품 검색 |
+| <img src="https://github.com/user-attachments/assets/2c312c54-6c26-4d14-aea5-93b4098f9d23" alt="single work" width="400"/> | 로그인된 상태에서 새 단일작품을 게시할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/d895abaa-43ee-46c1-8bbe-5efca394dabd" alt="single work details" width="400"/> | 단일작품을 상세조회하고, 좋아요 및 댓글을 남길 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/0f3b443e-d0c3-478c-b3cc-143b6046100e" alt="single work edit & delete" width="400"/> | 본인이 작성한 단일작품을 수정 및 삭제할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/4f6a035d-f6c4-4a67-9595-823fa1d83a0e" alt="search single work" width="400"/> | 홈페이지에서 단일작품을 검색할 수 있습니다. 정렬 조건을 선택할 수 있고, 검색 입력 좌측 아이콘을 클릭하여 필터링을 적용한 검색이 가능합니다. |
 
 <br>
 
