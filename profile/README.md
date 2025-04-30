@@ -33,10 +33,10 @@
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="" alt="single work" width="400"/> | 단일작품 게시 |
-| <img src="" alt="single work details" width="400"/> | 단일작품 상세조회 & 좋아요 & 댓글 작성 |
-| <img src="" alt="single work edit & delete" width="400"/> | 단일작품 수정 & 삭제 |
-| <img src="" alt="search single work" width="400"/> | 단일작품 검색 |
+| <img src="https://github.com/user-attachments/assets/2c312c54-6c26-4d14-aea5-93b4098f9d23" alt="single work" width="400"/> | 단일작품 게시 |
+| <img src="https://github.com/user-attachments/assets/d895abaa-43ee-46c1-8bbe-5efca394dabd" alt="single work details" width="400"/> | 단일작품 상세조회 & 좋아요 & 댓글 작성 |
+| <img src="https://github.com/user-attachments/assets/0f3b443e-d0c3-478c-b3cc-143b6046100e" alt="single work edit & delete" width="400"/> | 단일작품 수정 & 삭제 |
+| <img src="https://github.com/user-attachments/assets/4f6a035d-f6c4-4a67-9595-823fa1d83a0e" alt="search single work" width="400"/> | 단일작품 검색 |
 
 <br>
 
