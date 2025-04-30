@@ -27,13 +27,20 @@
 | <img src="https://github.com/user-attachments/assets/90dad12a-e194-4524-9514-a5a6d43ab821" alt="login" width="400"/> | 로그인 |
 | <img src="https://github.com/user-attachments/assets/cb5ee0f1-1662-4221-b066-4678edfd5c13" alt="details" width="400"/> | 유저 정보 조회 & 수정 |
 
-
-
+<br>
 
 ### 단일작품 
 
+| 인터페이스 | 설명 |
+|-------------|-----------|
+| <img src="" alt="single work" width="400"/> | 단일작품 게시 & 수정 & 삭제 |
+| <img src="" alt="search single work" width="400"/> | 단일작품 검색 |
+| <img src="" alt="single work details" width="400"/> | 단일작품 상세조회 & 좋아요 & 댓글 작성 |
+
+<br>
 
 ### 전시회
 
+<br>
 
 ### 팔로우 & 알림
