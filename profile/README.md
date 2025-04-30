@@ -33,14 +33,27 @@
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="" alt="single work" width="400"/> | 단일작품 게시 & 수정 & 삭제 |
-| <img src="" alt="search single work" width="400"/> | 단일작품 검색 |
+| <img src="" alt="single work" width="400"/> | 단일작품 게시 |
 | <img src="" alt="single work details" width="400"/> | 단일작품 상세조회 & 좋아요 & 댓글 작성 |
+| <img src="" alt="single work edit & delete" width="400"/> | 단일작품 수정 & 삭제 |
+| <img src="" alt="search single work" width="400"/> | 단일작품 검색 |
 
 <br>
 
 ### 전시회
 
+| 인터페이스 | 설명 |
+|-------------|-----------|
+| <img src="" alt="exhibition" width="400"/> | 전시회 게시 |
+| <img src="" alt="exhibition details" width="400"/> | 전시회 상세조회 & 좋아요 & 북마크 & 채팅 & 감상평 작성 |
+| <img src="" alt="exhibition delete" width="400"/> | 전시회 삭제 |
+| <img src="" alt="search exhibition" width="400"/> | 전시회 검색 |
+
 <br>
 
 ### 팔로우 & 알림
+
+| 인터페이스 | 설명 |
+|-------------|-----------|
+| <img src="" alt="follow" width="400"/> | 팔로우 |
+| <img src="" alt="notification" width="400"/> | 알림 |
