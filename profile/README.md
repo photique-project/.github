@@ -23,9 +23,10 @@
 ### 유저
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="https://example.com/upload.png" width="150"/> | 사용자가 이미지를 업로드할 수 있습니다. |
-| <img src="https://example.com/search.png" width="150"/> | 키워드로 작품을 검색할 수 있습니다. |
-| <img src="https://example.com/like.png" width="150"/> | 마음에 드는 사진에 좋아요를 누를 수 있습니다. |
+| <img src="../assets/join.gif" width="200"/> | 회원가입 |
+| <img src="../assets/login.gif" width="200"/> | 로그인 |
+| <img src="../assets/details.gif" width="200"/> | 유저 정보 조회 & 수정 |
+
 
 
 
