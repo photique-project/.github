@@ -47,13 +47,14 @@
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="" alt="exhibition" width="400"/> | 새 전시회를 게시할 수 있습니다. 최대 10개의 작품을 업로드할 수 있습니다. |
-| <img src="" alt="exhibition details" width="400"/> | 전시회를 상세 조회하고 좋아요, 북마크, 감상평을 남길 수 있습니다.|
-| <img src="" alt="exhibition chat" width="400"/> | 현재 관람중인 인원들과 실시간 채팅을 진행할 수 있습니다. 해당 채팅 데이터는 영구 저장되지 않습니다. |
-| <img src="" alt="exhibition delete" width="400"/> | 본인이 작성한 전시회를 삭제할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/12f46e7a-1b60-4143-8cd3-4c419a72ec0b" alt="exhibition" width="400"/> | 새 전시회를 게시할 수 있습니다. 최대 10개의 작품을 업로드할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/f62b22a2-4d8c-48b2-bc0d-e6ac74675620" alt="exhibition details" width="400"/> | 전시회를 상세 조회하고 좋아요, 북마크, 감상평을 남길 수 있습니다.|
+| <img src="https://github.com/user-attachments/assets/51c8f2ed-93d0-47f0-927b-dfb4f3691746" alt="exhibition chat" width="400"/> | 현재 관람중인 인원들과 실시간 채팅을 진행할 수 있습니다. 해당 채팅 데이터는 영구 저장되지 않습니다. |
+| <img src="https://github.com/user-attachments/assets/ca7f761d-de4e-466c-b23e-0029383c1957" alt="exhibition delete" width="400"/> | 본인이 작성한 전시회를 삭제할 수 있습니다. |
 | <img src="" alt="search exhibition" width="400"/> | 홈페이지에서 전시회를 검색할 수 있습니다. 단일 작품 검색과 마찬가지로, 정렬 조건을 선택할 수 있고 검색 입력 좌측 아이콘을 클릭하여 필터링을 적용한 검색이 가능합니다. |
 
 <br>
+
 
 ### 팔로우 & 알림
 
