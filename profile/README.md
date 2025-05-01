@@ -17,8 +17,8 @@
 
 <br>
 
-[![Frontend](https://img.shields.io/badge/GitHub-Frontend-blue?logo=github&style=plastic)](https://github.com/photique-project/frontend)<br>
-[![Backend](https://img.shields.io/badge/GitHub-Backend-green?logo=github&style=plastic)](https://github.com/photique-project/backend)
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend-blue?logo=github&style=flat)](https://github.com/photique-project/frontend)<br>
+[![Backend](https://img.shields.io/badge/GitHub-Backend-green?logo=github&style=flat)](https://github.com/photique-project/backend)
 
 
 
