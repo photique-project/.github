@@ -6,8 +6,8 @@
 
 <br><br>
 
-## 📖 Introduction
-> 그저 파일 속에만 남아 있는 숨겨진 작품이 아닌, 세상과 소통하는 특별한 사진으로 꺼내 보세요.
+# 📖 Introduction
+> 그저 파일 속에만 남아 있는 숨겨진 작품이 아닌, <세상과 소통하는 특별한 사진으로 꺼내 보세요.
 > 단 한 장의 사진으로도 당신의 시선을 남길 수 있습니다.<br>
 > 누구나 특별한 순간을 포착할 수 있는 시대. 일상 속 숨겨진 예술을 세상과 공유하고, 자신만의 독특한 작품을 전시하는 즐거움을 photique에서 느껴보세요. 당신의 렌즈 너머 세계를 모두에게 보여주세요 
 > 평범한 순간도 예술이 될 수 있습니다.
@@ -21,7 +21,7 @@
 
 <br><br>
 
-## 🚀 Features
+# 🚀 Features
 
 ### 유저
 | 인터페이스 | 설명 |
@@ -36,10 +36,10 @@
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="https://github.com/user-attachments/assets/2c312c54-6c26-4d14-aea5-93b4098f9d23" alt="single work" width="400"/> | 로그인된 상태에서 새 단일작품을 게시할 수 있습니다. |
-| <img src="https://github.com/user-attachments/assets/d895abaa-43ee-46c1-8bbe-5efca394dabd" alt="single work details" width="400"/> | 단일작품을 상세조회하고, 좋아요 및 댓글을 남길 수 있습니다. |
-| <img src="https://github.com/user-attachments/assets/0f3b443e-d0c3-478c-b3cc-143b6046100e" alt="single work edit & delete" width="400"/> | 본인이 작성한 단일작품을 수정 및 삭제할 수 있습니다. |
-| <img src="https://github.com/user-attachments/assets/4f6a035d-f6c4-4a67-9595-823fa1d83a0e" alt="search single work" width="400"/> | 홈페이지에서 단일작품을 검색할 수 있습니다. 정렬 조건을 선택할 수 있고, 검색 입력 좌측 아이콘을 클릭하여 필터링을 적용한 검색이 가능합니다. |
+| <img src="https://github.com/user-attachments/assets/2c312c54-6c26-4d14-aea5-93b4098f9d23" alt="single work" width="400"/> | 새 단일 작품을 게시할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/d895abaa-43ee-46c1-8bbe-5efca394dabd" alt="single work details" width="400"/> | 단일 작품을 상세 조회하고, 좋아요 및 댓글을 남길 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/0f3b443e-d0c3-478c-b3cc-143b6046100e" alt="single work edit & delete" width="400"/> | 본인이 작성한 단일 작품을 수정 및 삭제할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/4f6a035d-f6c4-4a67-9595-823fa1d83a0e" alt="search single work" width="400"/> | 홈페이지에서 단일 작품을 검색할 수 있습니다. 정렬 조건을 선택할 수 있고, 검색 입력 좌측 아이콘을 클릭하여 필터링을 적용한 검색이 가능합니다. |
 
 <br>
 
@@ -47,10 +47,11 @@
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
-| <img src="" alt="exhibition" width="400"/> | 전시회 게시 |
-| <img src="" alt="exhibition details" width="400"/> | 전시회 상세조회 & 좋아요 & 북마크 & 채팅 & 감상평 작성 |
-| <img src="" alt="exhibition delete" width="400"/> | 전시회 삭제 |
-| <img src="" alt="search exhibition" width="400"/> | 전시회 검색 |
+| <img src="" alt="exhibition" width="400"/> | 새 전시회를 게시할 수 있습니다. 최대 10개의 작품을 업로드할 수 있습니다. |
+| <img src="" alt="exhibition details" width="400"/> | 전시회를 상세 조회하고 좋아요, 북마크, 감상평을 남길 수 있습니다.|
+| <img src="" alt="exhibition chat" width="400"/> | 현재 관람중인 인원들과 실시간 채팅을 진행할 수 있습니다. 해당 채팅 데이터는 영구 저장되지 않습니다. |
+| <img src="" alt="exhibition delete" width="400"/> | 본인이 작성한 전시회를 삭제할 수 있습니다. |
+| <img src="" alt="search exhibition" width="400"/> | 홈페이지에서 전시회를 검색할 수 있습니다. 단일 작품 검색과 마찬가지로, 정렬 조건을 선택할 수 있고 검색 입력 좌측 아이콘을 클릭하여 필터링을 적용한 검색이 가능합니다. |
 
 <br>
 
@@ -63,6 +64,6 @@
 
 <br><br>
 
-## 👾 contact
+# 👾 contact
 [<img alt="Discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white"/>](https://discord.gg/ZXk4zCExDz)<br>
 디스코드 photique 서버에서 개발자와 소통할 수 있습니다 !
