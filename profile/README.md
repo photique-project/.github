@@ -13,7 +13,7 @@
 > 평범한 순간도 예술이 될 수 있습니다.
 
 > [!NOTE]
-> 서비스 서버 유지 비용에 대한 이유로, 별도 예고 없이 서버가 중단될 수 있습니다.
+> 서버 유지 비용에 대한 이유로, 2025년 7월 26일에 서비스가 중단될 예정입니다.
 <br>
 
 [![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge)](https://github.com/photique-project/backend)<br>
