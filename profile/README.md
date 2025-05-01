@@ -16,8 +16,8 @@
 > 서버 유지 비용에 대한 이유로, 2025년 7월 26일에 서비스가 중단될 예정입니다.
 <br>
 
-[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge)](https://github.com/photique-project/backend)<br>
-[![Backend Repository](https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge)](https://github.com/photique-project/frontend)
+[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge)](https://github.com/photique-project/frontend)<br>
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge)](https://github.com/photique-project/backend)
 
 <br><br>
 
