@@ -1,19 +1,13 @@
 # 🌃 Photique
 
-<a href="https://www.photique.site" target="_blank">
-  <img src="https://github.com/user-attachments/assets/b9e1f3d6-2481-4210-8bc6-8ebe59a6888d" alt="서비스 바로가기" width="400"/>
-</a>
-
-<br><br>
-
-# 📖 Introduction
+## 📖 Introduction
 > 그저 파일 속에만 남아 있는 숨겨진 작품이 아닌, 세상과 소통하는 특별한 사진으로 꺼내 보세요.
 > 단 한 장의 사진으로도 당신의 시선을 남길 수 있습니다.<br>
 > 누구나 특별한 순간을 포착할 수 있는 시대. 일상 속 숨겨진 예술을 세상과 공유하고, 자신만의 독특한 작품을 전시하는 즐거움을 photique에서 느껴보세요. 당신의 렌즈 너머 세계를 모두에게 보여주세요 
 > 평범한 순간도 예술이 될 수 있습니다.
 
 > [!NOTE]
-> 서버 유지 비용에 대한 이유로, 2025년 7월 26일에 서비스가 중단될 예정입니다.
+> 서버 유지 비용에 대한 이유로, 2025년 7월 26일에 서비스가 중단되었습니다 🥲
 
 <br>
 
@@ -24,7 +18,7 @@
 
 <br><br>
 
-# 🚀 Features
+## 🚀 Features
 
 ### 유저
 | 인터페이스 | 설명 |
@@ -59,12 +53,11 @@
 <br>
 
 
-### 팔로우 & 알림
+### 팔로우
 
 | 인터페이스 | 설명 |
 |-------------|-----------|
 | <img src="https://github.com/user-attachments/assets/f3ee9470-fe63-401d-a7d5-068606df3180" alt="follow" width="400"/> | 닉네임 검색을 통해서 다른 유저를 찾고 팔로우할 수 있습니다. |
-| <img src="https://github.com/user-attachments/assets/85c43a11-9351-4319-8c02-d3462d80bf88" alt="notification" width="400"/> | 본인의 게시글에 댓글, 좋아요, 북마크가 추가되거나 팔로우 요청, 팔로잉 유저의 새 게시글에 대한 알림을 받을 수 있습니다. |
 
 <br><br>
 
