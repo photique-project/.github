@@ -61,6 +61,3 @@
 
 <br><br>
 
-# 👾 contact
-[<img alt="Discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white"/>](https://discord.gg/ZXk4zCExDz)<br>
-디스코드 photique 서버에서 개발자와 소통할 수 있습니다 !
